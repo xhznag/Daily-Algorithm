@@ -22,7 +22,7 @@ This repository is used to record my daily algorithm practice, including solutio
 
 ## 🛠 Languages
 
-- Python / Java / C++ (choose your main language)
+- Python / C++ 
 - More languages may be added later
 
 ---
